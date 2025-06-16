@@ -219,7 +219,7 @@ export default function BrewlyHomePage() {
             {[1, 2, 3, 4, 5, 6].map((i) => (
               <div key={i} className="relative aspect-square overflow-hidden rounded-lg group cursor-pointer">
                 <Image
-                  src={`/placeholder.svg?height=300&width=300`}
+                  src={`/images/instagram${i}.jpg`}
                   alt={`Café moment ${i}`}
                   fill
                   className="object-cover transition-transform group-hover:scale-110"
