@@ -111,13 +111,13 @@ export default function BrewlyHomePage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-stone-700 leading-relaxed">
-                At Brewly, we believe that great coffee is more than just a beverage—it's a moment of pause in our
-                fast-paced world. Founded in 2019, we've dedicated ourselves to sourcing the finest beans from
+                At Brewly, we believe that great coffee is more than just a beverage—it&#39;s a moment of pause in our
+                fast-paced world. Founded in 2019, we&#39;ve dedicated ourselves to sourcing the finest beans from
                 sustainable farms around the globe.
               </p>
               <p className="text-lg text-stone-700 leading-relaxed">
                 Our artisanal approach combines traditional brewing methods with modern techniques, creating a space
-                where every cup tells a story. We're committed to environmental responsibility, using compostable
+                where every cup tells a story. We&#39;re committed to environmental responsibility, using compostable
                 packaging and supporting fair-trade practices.
               </p>
               <p className="text-lg text-stone-700 leading-relaxed">

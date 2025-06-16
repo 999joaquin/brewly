@@ -102,7 +102,7 @@ export default function MenuPage() {
             <div className="flex flex-col items-center">
               <Coffee className="text-amber-700 mb-3" size={32} />
               <h3 className="font-semibold text-stone-800 mb-2">Premium Coffee</h3>
-              <p className="text-stone-600 text-sm">Ethically sourced beans from the world's finest coffee regions</p>
+              <p className="text-stone-600 text-sm">Ethically sourced beans from the world&#39;s finest coffee regions</p>
             </div>
             <div className="flex flex-col items-center">
               <Leaf className="text-amber-700 mb-3" size={32} />
@@ -515,7 +515,7 @@ export default function MenuPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-serif text-stone-800 mb-6">Ready to Visit?</h2>
           <p className="text-lg text-stone-600 mb-8 max-w-2xl mx-auto">
-            Come experience our carefully crafted menu in person. We're open daily and ready to serve you the perfect
+            Come experience our carefully crafted menu in person. We&#39;re open daily and ready to serve you the perfect
             cup and bite for any moment of your day.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
